@@ -1,0 +1,38 @@
+[
+    {
+        "id": 81,
+        "name": "Strawberry ice cream",
+        "description": "Something tasty and healthy, perfect for hot days.",
+        "image": "https://cdn.aniagotuje.com/pictures/articles/2018/06/74497-v-900x556.jpg",
+        "score": 0.01798994848233826,
+        "tags": [
+            "Vege"
+        ],
+        "recipie": "Igredients:\n1. 500g strawberry\n2. 250g mascarpone\n3. 5 spoons of sugar\n4. 300g of cream\n\nSteps:\nWash the strawberries under cold water and remove the stalks. Put them into a saucepan and cover with 2 tablespoons of sugar. Fry until the fruit begins to release juice and the sugar dissolves. We put the vessel in the fridge. Combine the cream, mascarpone cheese and 3 tablespoons of sugar with each other and leave to cool. After a dozen or so minutes, remove the vessel with the creamy mass from the refrigerator and mix it for 2 minutes. Combine it with strawberries, mix it and put it in the freezer for 6 hours. Every hour, it is worth taking the mass out and mixing it. After that, all you have to do is enjoy homemade ice cream."
+    },
+    {
+        "id": 121,
+        "name": "Pancakes",
+        "description": "Ideal sweet dinner.",
+        "image": "https://polishhousewife.com/wp-content/uploads/2018/02/IMG_5597.jpg",
+        "score": -0.05297986852490999,
+        "tags": [
+            "Quick to make",
+            "Vege"
+        ],
+        "recipie": "Igredients:\n1 glass of flour\n2 eggs\n1 glass of milk\n1 glass of water\nsalt\noil\n\nSteps:\nPour the flour into a bowl, add eggs, milk, water and salt. Blend to a smooth dough. Add melted butter or vegetable oil and blend together (or use the fat to lubricate the pan before frying each pancake). Fry the pancakes in a well-heated pan with a thin bottom, e.g. a pancake pan. Turn over when the bottom of the pancake is nicely browned and cut."
+    },
+    {
+        "id": 111,
+        "name": "Fish",
+        "description": "fish baked under vegetables and grated cheese",
+        "image": "https://cdn.galleries.smcloud.net/t/galleries/gf-HoMA-9uLy-5Kn4_ryba-zapiekana-pod-warzywami-i-tartym-serem-664x442-nocrop.jpg",
+        "score": -0.505361060432753,
+        "tags": [
+            "Vege",
+            "Eco",
+            "Low calorie"
+        ],
+        "recipie": "Ingredients:\n1 KG SEA FISH: COD, POLLOCK, HAKE\n2 CILANTRO\n2 TOMPS\n1 PAPER\n150 G MAJONESE\n100 G HARD GRATED CHEESE\n3 TABLESPOONS OF PARSLEY\nSALT AND PEPPER TO TASTE\n\nPeel the onion and cut into slices. Put the onion into a bowl, add 100 g mayonnaise, fish seasoning, pepper, salt. Mix thoroughly. Add the marinade of onion and mayonnaise to the fish and mix well with your hands. Cover and put in the fridge for 30 minutes or 1 hour. Meanwhile, cut the tomatoes into thin slices and the peppers into strips. Finely grate the cheese. Line a roasting tin with baking paper, place the fish on the bottom and pour the marinade over it. On each piece of fish put tomatoes, peppers, make a grid of the remaining mayonnaise by squeezing it from a narrow dosing bottle and sprinkle with cheese. Bake in an oven preheated to 200\u00c2\u00b0C for half an hour. Before serving sprinkle with parsley"
+    }
+]
